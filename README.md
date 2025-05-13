@@ -70,8 +70,11 @@ public/
 ## 🌱 Future Improvements
 
 ⏱️ Add timer and blitz mode.
+
 🧾 Save game history to a database.
+
 🔐 Add user login, player profiles, and ELO rating.
+
 🎨 Add themes, sounds, and animated effects.
 
 ## 📄 License
