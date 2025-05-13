@@ -60,8 +60,11 @@ public/
 ## 📦 Dependencies
 
 🧱 Express — Server framework.
+
 🔌 Socket.IO — WebSocket-based communication.
+
 ♟️ Chess.js — Library for chess move validation and game state management.
+
 🖼️ EJS — Server-side rendering.
 
 ## 🌱 Future Improvements
